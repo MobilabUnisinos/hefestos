@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hefestos Wheelchair</string>
+    <string name="title_activity_tag">TagActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_tag1">Tag1Activity</string>
+    <string name="title_activity_tag2">Tag2Activity</string>
+    <string name="title_activity_tag3">Tag3Activity</string>
+    <string name="title_activity_mapa">Mapa</string>
+    <string name="title_activity_recursos_lista_in">RecursosListaIn</string>
+    <string name="title_activity_recursos_keyword">RecursosKeyword</string>
+
+</resources>
